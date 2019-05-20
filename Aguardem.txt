@@ -1,0 +1,2 @@
+Aguardem!!!
+Estou preparando um material passo a passo para iniciar em python com os comandos básicos!
